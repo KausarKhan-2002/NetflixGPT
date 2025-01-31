@@ -1,4 +1,4 @@
-const Header = () => {
+const FormHeader = () => {
   return (
     <div>
       {/* Shadow */}
@@ -17,4 +17,4 @@ const Header = () => {
   );
 };
 
-export default Header;
+export default FormHeader;

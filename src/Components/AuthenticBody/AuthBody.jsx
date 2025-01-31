@@ -1,12 +1,11 @@
 import React from "react";
-import Header from "./Header";
+import FormHeader from "../Header/FormHeader";
 import Signed from "./Signed";
 
 const AuthBody = () => {
-
   return (
     <div>
-      <Header />
+      <FormHeader />
       <Signed />
     </div>
   );
