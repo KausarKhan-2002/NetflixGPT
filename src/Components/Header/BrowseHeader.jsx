@@ -20,7 +20,7 @@ const BrowseHeader = () => {
         });
     };
   return (
-    <div>
+    <div className="fixed top-0 w-full z-50">
       <div className="customShadow" />
       <div className="flex justify-between items-center px-32 py-2">
         <img
